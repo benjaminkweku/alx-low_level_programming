@@ -46,7 +46,7 @@ int _abs(int);
  * @int: integer to input
  * Return: last digit of integer
  */
-int print_last_digit(int);
+int print_last_digiti(int);
 /**
  * jack_bauer - jack bauer gooo
  *
