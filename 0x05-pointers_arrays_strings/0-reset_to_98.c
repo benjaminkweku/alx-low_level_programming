@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "mymain.h"
 
 /**
  * reset_to_98 - main
