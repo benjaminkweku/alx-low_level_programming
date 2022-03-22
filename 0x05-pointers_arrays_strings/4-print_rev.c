@@ -1,4 +1,4 @@
-#include "mymainn.h"
+#include "mymain.h"
 
 /**
   * print_rev - prints string
