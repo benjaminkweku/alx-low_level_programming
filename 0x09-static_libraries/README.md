@@ -1,18 +1,19 @@
-# Static libraries
+# 0x08. C - Static libraries
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about static libraries in **C language**.
+0. A library is not a luxury but one of the necessities of life mandatory
+Create the static library libholberton.a containing
 
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+1. Without libraries what have we? We have no past and no future mandatory
+Create a script called create_static_lib.sh that creates a static library
+called liball.a from all the .c files that are in the current directory.
 
-## Files
-All of the following files are scripts and programs written in C:
+2. Either write something worth reading or do something worth writing mandatory
+Write a blog post on C static libraries. It should cover:
 
-| Filename | Description |
-| -------- | ----------- |
-| `libholberton.a` | Static library that contains a lot of functions |
-| `create_static_lib.sh` | Script that creates a static library called `liball.a` from all the `.c` files that are in the current directory |
-| `holberton.h` | Header file that contains all the prototypes of the used functions |
+Why use libraries
+How they work
+How to create them
+How to use them
+Your posts should have examples and at least one picture, at the top.
+Publish your blog post on Medium or LinkedIn, and share it at least on
+Twitter and LinkedIn.
